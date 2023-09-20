@@ -4,7 +4,7 @@
 
 ## Description
 
-This project was created to get a better understanding a Progressive Web Applications that are able to be installed as offline standalone apps. This challenge has taught me how to initialize a PWA as well as how to inject a manifest to my application as well as register a service worker. The project has overall taught me that PWAs although might have specific use cases, they are still something that could prove to be vital in those said situations.
+This project was created to get a better understanding a Progressive Web Applications that are able to be installed as offline standalone apps. This challenge has taught me how to initialize a PWA using Webpack as well as how to inject a manifest to my application as well as register a service worker. The project has overall taught me that PWAs although might have specific use cases, they are still something that could prove to be vital in those said situations.
 
 ## Table of Contents
 
@@ -33,7 +33,9 @@ Navigate to: https://uofm-text-editor-5d5ef84ddce1.herokuapp.com/
 - The text editor will automatically save any information currently displayed on it whenever the focus is removed from the editor so you can go back and revisit any information that you have typed so far!
 ## Credits
 
-- Starter code from: 
+- Starter code from: https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-04-2023-U-LOLC-ENTG/-/tree/main/19-PWA/02-Challenge 
+- Code Mirror: https://codemirror.net/
+- Webpack: https://webpack.js.org/
 
 ## License
 
